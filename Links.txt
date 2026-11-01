@@ -1,7 +1,9 @@
+Module 1:
+
 L1_A1:
 
 https://github.com/chandra1319-hash/MyActivities/blob/bb0d6ea4a0b7c6be2264f09044fa4ca47feef460/AI%20%26%20Coding%209-12/Lesson%201%20Activity%201/index.html
-
+=============================================================
 L2_A1:
 https://github.com/chandra1319-hash/MyActivities/blob/07208e72cbb59856deff46d970508619be60704e/ACP/L2_Activities/activity1.html
 
@@ -11,3 +13,11 @@ https://github.com/chandra1319-hash/MyActivities/blob/7b28dd48937faf85726acfad1d
 L2_A3:
 https://github.com/chandra1319-hash/MyActivities/blob/6623ef1f98cb7bcce827affa27ca52cf92940d1d/ACP/L2_Activities/activity2.html
 
+===========================================================
+L3_A1:
+
+https://github.com/chandra1319-hash/MyActivities/blob/5a3aa8d6fce43410689c3543f04bd6537159af69/ACP/L3_Activities/activity1.html
+
+L3_A2:
+https://github.com/chandra1319-hash/MyActivities/blob/de14e3e301a1c84677897ae9a77cdf0b85a1ff54/ACP/L3_Activities/activity2.html
+==========================================================
