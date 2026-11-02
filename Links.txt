@@ -40,3 +40,15 @@ https://github.com/chandra1319-hash/MyActivities/blob/802556deb5e3a4d291f6bc51e0
 L6_A1:
 https://github.com/chandra1319-hash/MyActivities/blob/8760b1376f964ea1a740d8d42706dbf59fc39c62/ACP/L6_Activities/activity1.html
 ==========================================================
+
+
+
+Activities:
+
+1. Structure:
+https://github.com/chandra1319-hash/MyActivities/blob/fa4460af055ba47064782feb08e63dcc1ef54c8b/Activities/structure.html
+
+2.comments
+https://github.com/chandra1319-hash/MyActivities/blob/fa4460af055ba47064782feb08e63dcc1ef54c8b/Activities/comments.html
+
+3. 
