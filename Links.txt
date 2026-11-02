@@ -54,4 +54,8 @@ https://github.com/chandra1319-hash/MyActivities/blob/fa4460af055ba47064782feb08
 3. Line Break:
 https://github.com/chandra1319-hash/MyActivities/blob/7dc42241b6f2ad9d9ddd2983353c255bdacc629a/Activities/linebreak.html
 
-4. 
+4. Heading and Paragraph:
+https://github.com/chandra1319-hash/MyActivities/blob/778960392b89a417905b15fe393530c66d2ddf81/Activities/heading.html
+
+5. Formatting:
+https://github.com/chandra1319-hash/MyActivities/blob/c5f9d88a94c6cc21e21eddcf2f6125535aff72d2/Activities/formatting.html
