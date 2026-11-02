@@ -35,4 +35,8 @@ https://github.com/chandra1319-hash/MyActivities/blob/c4406256d5dc3162654c253157
 ================================================================
 L5_A1:
 https://github.com/chandra1319-hash/MyActivities/blob/802556deb5e3a4d291f6bc51e00841c5626153a7/ACP/L5_Activities/activity1.html
+
+================================================================
+L6_A1:
+https://github.com/chandra1319-hash/MyActivities/blob/8760b1376f964ea1a740d8d42706dbf59fc39c62/ACP/L6_Activities/activity1.html
 ==========================================================
