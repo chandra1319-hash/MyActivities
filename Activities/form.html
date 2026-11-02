@@ -1,0 +1,31 @@
+<form method="POST">
+    <fieldset>
+        <legend>Personal information</legend>
+
+        <p>
+            <label for="name">Name</label><br />
+            <input type="text" id="name" name="name" required />
+        </p>
+
+        <p>
+            <label for="email">Email</label><br />
+            <input type="email" id="email" name="email" required />
+        </p>
+    </fieldset>
+
+    <fieldset>
+        <legend>Message</legend>
+
+        <p>
+            <label for="subject">Subject</label><br />
+            <input type="text" id="subject" name="subject" />
+        </p>
+
+        <p>
+            <label for="message">Your message</label><br />
+            <textarea id="message" name="message" rows="6" required></textarea>
+        </p>
+    </fieldset>
+
+    <button type="submit">Send</button>
+</form>
