@@ -26,6 +26,9 @@ M1L3A1:
 https://github.com/chandra1319-hash/MyActivities/blob/ea7225eb0ed2e5dfd4ecf2eb32153169d0192942/Java%20Course/M1/JavaLesson3/Activity1.java
 
 M1L3A2:
+https://github.com/chandra1319-hash/MyActivities/blob/864356e239daa4086ddb8573161283aae968bd75/Java%20Course/M1/JavaLesson3/Activity2.java
+
+M1L3A3:
 
 
 
