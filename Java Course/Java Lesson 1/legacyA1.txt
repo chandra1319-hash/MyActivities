@@ -1,0 +1,12 @@
+C:\Codingal\Java Course>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 969F-670E
+
+ Directory of C:\Codingal\Java Course
+
+12-11-2026  11:37    <DIR>          .
+12-11-2026  11:21    <DIR>          ..
+12-11-2026  11:37               137 Activities.txt
+12-11-2026  11:39    <DIR>          Java Lesson 1
+               1 File(s)            137 bytes
+               3 Dir(s)  64,421,429,248 bytes free
