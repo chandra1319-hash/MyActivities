@@ -59,3 +59,20 @@ https://github.com/chandra1319-hash/MyActivities/blob/778960392b89a417905b15fe39
 
 5. Formatting:
 https://github.com/chandra1319-hash/MyActivities/blob/c5f9d88a94c6cc21e21eddcf2f6125535aff72d2/Activities/formatting.html
+
+6. Introduction:
+https://github.com/chandra1319-hash/MyActivities/blob/edd6de982f13d573c7bbafaef8c811c6649626cf/Activities/intro.html
+
+16. Form fields:
+https://github.com/chandra1319-hash/MyActivities/blob/339dba67e1b866a687fb282a6c95dc4ba88ed3f7/Activities/form.html
+
+17. Drop Down:
+https://github.com/chandra1319-hash/MyActivities/blob/4214cee2765c5f314940a54557e2c8d360cfedfd/Activities/dropdown.html
+
+ACP:
+5. Div Section span:
+https://github.com/chandra1319-hash/MyActivities/blob/c4a96740150f0262ef2fc0ce65f98a2b847e5b4f/Activities/divsection.html
+
+7. Registration form:
+https://github.com/chandra1319-hash/MyActivities/blob/01e2140a9f4afdaf0ffd8f0e91e587da84f22a89/Activities/registration.html
+
