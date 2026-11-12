@@ -22,6 +22,12 @@ https://github.com/chandra1319-hash/MyActivities/blob/40066562a9a6d485c3981655a7
 M1L2ACP:
 https://github.com/chandra1319-hash/MyActivities/blob/38f5cde55262696129f9d519be92f15e122d7400/Java%20Course/M1/JavaLesson2/LeapYear_ACP.java
 
+M1L3A1:
+https://github.com/chandra1319-hash/MyActivities/blob/ea7225eb0ed2e5dfd4ecf2eb32153169d0192942/Java%20Course/M1/JavaLesson3/Activity1.java
+
+M1L3A2:
+
+
 
 
 
