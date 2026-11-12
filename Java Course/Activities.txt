@@ -1,3 +1,11 @@
 M1L1A1:
 https://github.com/chandra1319-hash/MyActivities/blob/19fb1c2cdb9f4d562744d99a77b7a6e1dbb2086b/Java%20Course/HelloWorld.java
 
+M1L1A2:
+https://github.com/chandra1319-hash/MyActivities/blob/7b226880f01806994f3a07e70035a89f267ad4d2/Java%20Course/Java%20Lesson%201/legacyA1.txt
+
+M1L1A3:
+https://github.com/chandra1319-hash/MyActivities/blob/7b226880f01806994f3a07e70035a89f267ad4d2/Java%20Course/Java%20Lesson%201/legacyA1.txt
+
+
+
