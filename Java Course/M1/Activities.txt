@@ -58,6 +58,13 @@ https://github.com/chandra1319-hash/MyActivities/blob/1b2f2ab66ac22eb54dc675552b
 M1L6A1:
 https://github.com/chandra1319-hash/MyActivities/blob/ab3801c421d90bf94d5e79f4f8b72026e3a832bc/Java%20Course/M1/JavaLesson6/Activity1.java
 
+M1L6A2:
+https://github.com/chandra1319-hash/MyActivities/blob/759acdbf449a3ff312721078b31c401173f79904/Java%20Course/M1/JavaLesson6/Activity2.java
+
+M1L6A3:
+https://github.com/chandra1319-hash/MyActivities/blob/6d0c9879e01b587d62ff6175c65588470d27cd8a/Java%20Course/M1/JavaLesson6/Activity3.java
+
+M1L6ACP:
 
 
 
